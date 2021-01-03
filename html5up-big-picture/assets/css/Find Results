@@ -1,0 +1,93 @@
+Searching 1 file for "header"
+
+/Users/usuario/Desktop/Taller/html5up-big-picture/assets/css/main.css:
+   17  tfoot, thead, tr, th, td, article, aside,
+   18  canvas, details, embed, figure, figcaption,
+   19: footer, header, hgroup, menu, nav, output, ruby,
+   20  section, summary, time, mark, audio, video {
+   21  	margin: 0;
+   ..
+   27  
+   28  article, aside, details, figcaption, figure,
+   29: footer, header, hgroup, menu, nav, section {
+   30  	display: block;}
+   31  
+   ..
+ 1181  /* Sections/Article */
+ 1182  
+ 1183: 	header {
+ 1184  		margin-bottom: 1em;
+ 1185  	}
+ 1186  
+ 1187: 		header p {
+ 1188  			display: block;
+ 1189  			margin: 1em 0 0 0;
+ ....
+ 1825  		}
+ 1826  
+ 1827: /* Header */
+ 1828  
+ 1829: 	#header {
+ 1830  		position: fixed;
+ 1831  		z-index: 10000;
+ ....
+ 1839  	}
+ 1840  
+ 1841: 		#header h1 {
+ 1842  			position: absolute;
+ 1843  			left: 1em;
+ ....
+ 1848  		}
+ 1849  
+ 1850: 			#header h1 a {
+ 1851  				font-size: 1.25em;
+ 1852  			}
+ 1853  
+ 1854: 		#header nav {
+ 1855  			position: absolute;
+ 1856  			right: 0.5em;
+ ....
+ 1860  		}
+ 1861  
+ 1862: 			#header nav ul {
+ 1863  				margin: 0;
+ 1864  			}
+ 1865  
+ 1866: 				#header nav ul li {
+ 1867  					display: inline-block;
+ 1868  					margin-left: 0.5em;
+ ....
+ 1870  				}
+ 1871  
+ 1872: 					#header nav ul li a {
+ 1873  						display: block;
+ 1874  						color: inherit;
+ ....
+ 1882  		@media screen and (max-width: 736px) {
+ 1883  
+ 1884: 			#header {
+ 1885  				height: 2.5em;
+ 1886  				line-height: 2.5em;
+ 1887  			}
+ 1888  
+ 1889: 				#header h1 {
+ 1890  					text-align: center;
+ 1891  					position: relative;
+ ....
+ 1896  				}
+ 1897  
+ 1898: 					#header h1 a {
+ 1899  						font-size: 1em;
+ 1900  					}
+ 1901  
+ 1902: 				#header nav {
+ 1903  					display: none;
+ 1904  				}
+ ....
+ 2039  		}
+ 2040  
+ 2041: 			.main.style3 .content > header {
+ 2042  				margin-bottom: 2em;
+ 2043  			}
+
+17 matches in 1 file
